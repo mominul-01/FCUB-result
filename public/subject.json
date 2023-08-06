@@ -1,6 +1,6 @@
 {
     "departments": {
-      "Computer Science": {
+      "B.Sc. in Computer Science and Engineering (CSE)": {
         "semesters": {
           "1": [
             {
@@ -390,7 +390,7 @@
           ]
         }
       },
-      "EEE": {
+      "B.Sc. in Electrical and Electronic Engineering (EEE)": {
         "semesters":{
           "1": [
             {
@@ -844,7 +844,7 @@
         
         
       },
-      "Public Health": {
+      "Bachelor of Public Health (BPH)": {
         "semesters": {
           "1": [
             {
@@ -1130,286 +1130,1341 @@
         }
         
       },
-      "Marketing": {
+      "Bachelor of Business Administration (BBA)": {
         "semesters": {
           "1": [
             {
-              "subject_code": "MKTG101",
-              "subject": "Introduction to Marketing",
-              "credit": 3
+              "course_code": "BBA 111",
+              "course_name": "Principles of Accounting",
+              "credits": 3
             },
             {
-              "subject_code": "COMM101",
-              "subject": "Business Communication",
-              "credit": 3
+              "course_code": "BBA 112",
+              "course_name": "Principles of Management",
+              "credits": 3
             },
             {
-              "subject_code": "MATH101",
-              "subject": "Business Mathematics",
-              "credit": 3
+              "course_code": "BBA 113",
+              "course_name": "Principles of Marketing",
+              "credits": 3
+            },
+            {
+              "course_code": "BBA 114",
+              "course_name": "Principles of Finance",
+              "credits": 3
+            },
+            {
+              "course_code": "BBA 115",
+              "course_name": "History of the emergence of Bangladesh",
+              "credits": 3
             }
           ],
           "2": [
             {
-              "subject_code": "MKTG201",
-              "subject": "Consumer Behavior",
-              "credit": 3
+              "course_code": "BBA 121",
+              "course_name": "Introduction to Business",
+              "credits": 3
             },
             {
-              "subject_code": "MKTG202",
-              "subject": "Marketing Research",
-              "credit": 3
+              "course_code": "BBA 122",
+              "course_name": "Business Communication",
+              "credits": 3
             },
             {
-              "subject_code": "FIN101",
-              "subject": "Introduction to Finance",
-              "credit": 3
+              "course_code": "BBA 123",
+              "course_name": "Microeconomics",
+              "credits": 3
+            },
+            {
+              "course_code": "BBA 124",
+              "course_name": "Business Mathematics",
+              "credits": 3
+            },
+            {
+              "course_code": "BBA 125",
+              "course_name": "E-Commerce",
+              "credits": 3
             }
           ],
           "3": [
             {
-              "subject_code": "MKTG301",
-              "subject": "Brand Management",
-              "credit": 3
+              "course_code": "BBA 211",
+              "course_name": "Business Statistics",
+              "credits": 3
             },
             {
-              "subject_code": "MKTG302",
-              "subject": "Digital Marketing",
-              "credit": 3
+              "course_code": "BBA 212",
+              "course_name": "Bank Management",
+              "credits": 3
             },
             {
-              "subject_code": "ECON101",
-              "subject": "Principles of Economics",
-              "credit": 3
+              "course_code": "BBA 213",
+              "course_name": "Macroeconomics",
+              "credits": 3
+            },
+            {
+              "course_code": "BBA 214",
+              "course_name": "Organizational Behavior",
+              "credits": 3
+            },
+            {
+              "course_code": "BBA 215",
+              "course_name": "Legal Environment of Business (Commercial Law)",
+              "credits": 3
             }
           ],
           "4": [
             {
-              "subject_code": "MKTG401",
-              "subject": "Marketing Analytics",
-              "credit": 3
+              "course_code": "BBA 221",
+              "course_name": "Cost and Management Accounting",
+              "credits": 3
             },
             {
-              "subject_code": "MKTG402",
-              "subject": "Social Media Marketing",
-              "credit": 3
+              "course_code": "BBA 222",
+              "course_name": "Fundamentals of MIS",
+              "credits": 3
             },
             {
-              "subject_code": "STAT101",
-              "subject": "Statistics",
-              "credit": 3
+              "course_code": "BBA 223",
+              "course_name": "Entrepreneurship Development and SME Management",
+              "credits": 3
+            },
+            {
+              "course_code": "BBA 224",
+              "course_name": "Human Resource Management",
+              "credits": 3
+            },
+            {
+              "course_code": "BBA 225",
+              "course_name": "Labor Law",
+              "credits": 3
             }
           ],
           "5": [
             {
-              "subject_code": "MKTG501",
-              "subject": "Marketing Strategy",
-              "credit": 3
+              "course_code": "BBA 311",
+              "course_name": "Auditing and Taxation",
+              "credits": 3
             },
             {
-              "subject_code": "MKTG502",
-              "subject": "International Marketing",
-              "credit": 3
+              "course_code": "BBA 312",
+              "course_name": "Strategic Management",
+              "credits": 3
             },
             {
-              "subject_code": "MGMT101",
-              "subject": "Principles of Management",
-              "credit": 3
+              "course_code": "BBA 313",
+              "course_name": "Bengali Language and Culture",
+              "credits": 3
+            },
+            {
+              "course_code": "BBA 314",
+              "course_name": "Bangladesh Studies",
+              "credits": 3
+            },
+            {
+              "course_code": "BBA 315",
+              "course_name": "Computer Applications in Business",
+              "credits": 3
             }
           ],
           "6": [
             {
-              "subject_code": "MKTG601",
-              "subject": "Retail Marketing",
-              "credit": 3
+              "course_code": "BBA 321",
+              "course_name": "Research Methodology",
+              "credits": 3
             },
             {
-              "subject_code": "MKTG602",
-              "subject": "Services Marketing",
-              "credit": 3
+              "course_code": "BBA 322",
+              "course_name": "Project Management",
+              "credits": 3
             },
             {
-              "subject_code": "MKTG603",
-              "subject": "Marketing Ethics",
-              "credit": 3
+              "course_code": "BBA 323",
+              "course_name": "Business Ethics and Corporate Social Responsibility",
+              "credits": 3
+            },
+            {
+              "course_code": "BBA 324",
+              "course_name": "Quantitative Techniques for Decision Making",
+              "credits": 3
+            },
+            {
+              "course_code": "BBA 325",
+              "course_name": "Insurance and Risk Management",
+              "credits": 3
             }
           ],
           "7": [
             {
-              "subject_code": "MKTG701",
-              "subject": "Business-to-Business Marketing",
-              "credit": 3
+              "course_code": "AIS 411",
+              "course_name": "Accounting Information Systems",
+              "credits": 3
             },
             {
-              "subject_code": "MKTG702",
-              "subject": "Marketing for Nonprofits",
-              "credit": 3
+              "course_code": "AIS 412",
+              "course_name": "Accounting Thought",
+              "credits": 3
             },
             {
-              "subject_code": "MGMT201",
-              "subject": "Organizational Behavior",
-              "credit": 3
+              "course_code": "AIS 413",
+              "course_name": "Analysis and Interpretation of Financial Statement",
+              "credits": 3
+            },
+            {
+              "course_code": "AIS 414",
+              "course_name": "Strategic Management Accounting",
+              "credits": 3
+            },
+            {
+              "course_code": "AIS 415",
+              "course_name": "Foreign Exchange Policy and Control",
+              "credits": 3
+            },
+            {
+              "course_code": "AIS 416",
+              "course_name": "Economics for Financial Market",
+              "credits": 3
             }
           ],
           "8": [
             {
-              "subject_code": "MKTG801",
-              "subject": "Strategic Marketing Management",
-              "credit": 3
+              "course_code": "AIS 421",
+              "course_name": "Advanced Accounting",
+              "credits": 3
             },
             {
-              "subject_code": "MKTG802",
-              "subject": "Innovation and New Product Development",
-              "credit": 3
+              "course_code": "AIS 422",
+              "course_name": "Advanced Cost Accounting",
+              "credits": 3
             },
             {
-              "subject_code": "MKTG803",
-              "subject": "Marketing Internship",
-              "credit": 6
+              "course_code": "AIS 423",
+              "course_name": "Advanced Auditing",
+              "credits": 3
+            },
+            {
+              "course_code": "AIS 424",
+              "course_name": "Public and Corporate Social Accounting",
+              "credits": 3
+            },
+            {
+              "course_code": "AIS 425",
+              "course_name": "Corporate Financial Reporting",
+              "credits": 3
+            },
+            {
+              "course_code": "AIS 426",
+              "course_name": "Corporate Tax Planning",
+              "credits": 3
+            }
+          ],
+          "9": [
+            {
+              "course_code": "MKT 411",
+              "course_name": "Marketing Management",
+              "credits": 3
+            },
+            {
+              "course_code": "MKT 412",
+              "course_name": "Export and Import Management",
+              "credits": 3
+            },
+            {
+              "course_code": "MKT 413",
+              "course_name": "Service Marketing",
+              "credits": 3
+            },
+            {
+              "course_code": "MKT 414",
+              "course_name": "Retail Management",
+              "credits": 3
+            },
+            {
+              "course_code": "MKT 415",
+              "course_name": "Advertising and Public Relations",
+              "credits": 3
+            },
+            {
+              "course_code": "MKT 416",
+              "course_name": "Pricing Theory and Practices",
+              "credits": 3
+            }
+          ],
+          "10": [
+            {
+              "course_code": "MKT 421",
+              "course_name": "Consumer Behavior",
+              "credits": 3
+            },
+            {
+              "course_code": "MKT 422",
+              "course_name": "Brand Management",
+              "credits": 3
+            },
+            {
+              "course_code": "MKT 423",
+              "course_name": "Relationship Marketing",
+              "credits": 3
+            },
+            {
+              "course_code": "MKT 424",
+              "course_name": "Competitive Analysis",
+              "credits": 3
+            },
+            {
+              "course_code": "MKT 425",
+              "course_name": "Tourism and hospitality Marketing",
+              "credits": 3
+            },
+            {
+              "course_code": "MKT 426",
+              "course_name": "International Marketing",
+              "credits": 3
+            }
+          ],
+          "11": [
+            {
+              "course_code": "MGT 411",
+              "course_name": "Diversity Management",
+              "credits": 3
+            },
+            {
+              "course_code": "MGT 412",
+              "course_name": "Production and Operations Management",
+              "credits": 3
+            },
+            {
+              "course_code": "MGT 413",
+              "course_name": "Management Thought",
+              "credits": 3
+            },
+            {
+              "course_code": "MGT 414",
+              "course_name": "Human Resource Planning",
+              "credits": 3
+            },
+            {
+              "course_code": "MGT 415",
+              "course_name": "Management of Technology",
+              "credits": 3
+            },
+            {
+              "course_code": "MGT 416",
+              "course_name": "Advanced Management",
+              "credits": 3
+            }
+          ],
+          "12": [
+            {
+              "course_code": "MGT 421",
+              "course_name": "Total Quality Management",
+              "credits": 3
+            },
+            {
+              "course_code": "MGT 422",
+              "course_name": "Management Science",
+              "credits": 3
+            },
+            {
+              "course_code": "MGT 423",
+              "course_name": "Supply Chain Management",
+              "credits": 3
+            },
+            {
+              "course_code": "MGT 424",
+              "course_name": "Conflict Management",
+              "credits": 3
+            },
+            {
+              "course_code": "MGT 425",
+              "course_name": "Management Consultancy",
+              "credits": 3
+            },
+            {
+              "course_code": "MGT 426",
+              "course_name": "Training and Development",
+              "credits": 3
+            }
+          ],
+          "13": [
+            {
+              "course_code": "FIN 411",
+              "course_name": "Financial Analysis and Control",
+              "credits": 3
+            },
+            {
+              "course_code": "FIN 412",
+              "course_name": "Security Analysis and Portfolio Management",
+              "credits": 3
+            },
+            {
+              "course_code": "FIN 413",
+              "course_name": "Financial Markets and Institutions",
+              "credits": 3
+            },
+            {
+              "course_code": "FIN 414",
+              "course_name": "Working Capital Management",
+              "credits": 3
+            },
+            {
+              "course_code": "FIN 415",
+              "course_name": "Investment Banking and Lease Financing",
+              "credits": 3
+            },
+            {
+              "course_code": "FIN 416",
+              "course_name": "Financial Management",
+              "credits": 3
+            }
+          ],
+          "14": [
+            {
+              "course_code": "FIN 421",
+              "course_name": "Corporate Finance",
+              "credits": 3
+            },
+            {
+              "course_code": "FIN 422",
+              "course_name": "International Finance",
+              "credits": 3
+            },
+            {
+              "course_code": "FIN 423",
+              "course_name": "Capital Budgeting",
+              "credits": 3
+            },
+            {
+              "course_code": "FIN 424",
+              "course_name": "Public Finance",
+              "credits": 3
+            },
+            {
+              "course_code": "FIN 425",
+              "course_name": "SME and Micro Finance",
+              "credits": 3
+            },
+            {
+              "course_code": "FIN 426",
+              "course_name": "Financial Derivatives",
+              "credits": 3
             }
           ]
         }
+        
       },
-      "Psychology": {
+      "Bachelor of Laws (LLB Hon’s)": {
         "semesters": {
+                "1": [
+                  {
+                    "course_code": "LAW 1101",
+                    "course_name": "Jurisprudence",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 1102",
+                    "course_name": "Law of Contract",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 1103",
+                    "course_name": "Law of Torts and Consumer Protection",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 1104",
+                    "course_name": "Muslim Law",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 1105",
+                    "course_name": "Bengali Language and Literature",
+                    "credits": 20
+                  }
+                ],
+                "2": [
+                  {
+                    "course_code": "LAW 1201",
+                    "course_name": "Hindu & Christian Personal Laws",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 1202",
+                    "course_name": "Law of Labor Relations",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 1203",
+                    "course_name": "Legal and Constitutional History of Bangladesh",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 1204",
+                    "course_name": "Public International Law",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 1205",
+                    "course_name": "Viva- Voce",
+                    "credits": 20
+                  }
+                ],
+                "3": [
+                  {
+                    "course_code": "LAW 2101",
+                    "course_name": "Constitutional Law of Bangladesh",
+                    "credits": 16
+                  },
+                  {
+                    "course_code": "LAW 2102",
+                    "course_name": "Constitutional Law of UK, USA and India",
+                    "credits": 16
+                  },
+                  {
+                    "course_code": "LAW 2103",
+                    "course_name": "Equity and Law of Trust",
+                    "credits": 16
+                  },
+                  {
+                    "course_code": "LAW 2104",
+                    "course_name": "Law of Succession (All major personal laws)",
+                    "credits": 16
+                  }
+                ],
+                "4": [
+                  {
+                    "course_code": "LAW 2201",
+                    "course_name": "Administrative Law",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 2202",
+                    "course_name": "Law of Transfer of Property",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 2203",
+                    "course_name": "Law of Taxation",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 2204",
+                    "course_name": "Company Law and Artha Rin Adalat Ain",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 2205",
+                    "course_name": "Viva- Voce",
+                    "credits": 20
+                  }
+                ],
+                "5": [
+                  {
+                    "course_code": "LAW 3101",
+                    "course_name": "Business Law",
+                    "credits": 16
+                  },
+                  {
+                    "course_code": "LAW 3102",
+                    "course_name": "Land Laws of Bangladesh",
+                    "credits": 16
+                  },
+                  {
+                    "course_code": "LAW 3103",
+                    "course_name": "Criminology",
+                    "credits": 16
+                  },
+                  {
+                    "course_code": "LAW 3104",
+                    "course_name": "Law of Media & Information Communication Technology",
+                    "credits": 16
+                  }
+                ],
+                "6": [
+                  {
+                    "course_code": "LAW 3201",
+                    "course_name": "Environmental laws of Bangladesh",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 3202",
+                    "course_name": "Law of Evidence",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 3203",
+                    "course_name": "Law of Crimes",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 3204",
+                    "course_name": "Law of Specific Relief, Limitation, Registration and Public Demand Recovery",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 3205",
+                    "course_name": "Viva- Voce",
+                    "credits": 20
+                  }
+                ],
+                "7": [
+                  {
+                    "course_code": "LAW 4101",
+                    "course_name": "Interpretation of Statutes and General Clauses Act",
+                    "credits": 16
+                  },
+                  {
+                    "course_code": "LAW 4102",
+                    "course_name": "Law of Civil Procedure",
+                    "credits": 16
+                  },
+                  {
+                    "course_code": "LAW 4103",
+                    "course_name": "Law Criminal Procedure-I",
+                    "credits": 16
+                  },
+                  {
+                    "course_code": "LAW 4104",
+                    "course_name": "Professional Ethics and Trial Advocacy",
+                    "credits": 16
+                  }
+                ],
+                "8": [
+                  {
+                    "course_code": "LAW 4201",
+                    "course_name": "Law of Criminal Procedure-II",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 4202",
+                    "course_name": "Practice Aspects of Civil and Criminal Justice",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 4203",
+                    "course_name": "Alternative Dispute Resolution and Legal Aid",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 4204",
+                    "course_name": "Legal Research and Writing",
+                    "credits": 20
+                  },
+                  {
+                    "course_code": "LAW 4205",
+                    "course_name": "Viva- Voce",
+                    "credits": 20
+                  }
+                ]
+              }
+      },
+      "Bachelor of Arts (Hon’s.) in English":{
+
+          "semesters":{
+            "1": [
+              {
+                "course_code": "ENG-101",
+                "course_name": "Four Skills (Listening, Speaking, Reading & Writing)",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-102",
+                "course_name": "Spoken English & Phonetics",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-103",
+                "course_name": "Remedial Grammar",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-104",
+                "course_name": "Basic Bengali Language Skills",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-105",
+                "course_name": "Introduction to Poetry",
+                "credits": 3
+              }
+            ],
+            "2": [
+              {
+                "course_code": "ENG-201",
+                "course_name": "From Paragraph to Essay",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-202",
+                "course_name": "History of England",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-203",
+                "course_name": "English for Professional Purposes",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-204",
+                "course_name": "Academic Writing",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-205",
+                "course_name": "Introduction to Prose & Drama",
+                "credits": 3
+              }
+            ],
+            "3": [
+              {
+                "course_code": "ENG-301",
+                "course_name": "History of Bangladesh",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-302",
+                "course_name": "History of English Literature",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-303",
+                "course_name": "Basic Philosophical Concepts",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-304",
+                "course_name": "Basic Computer Skills",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-305",
+                "course_name": "Renaissance Poetry & Prose",
+                "credits": 3
+              }
+            ],
+            "4": [
+              {
+                "course_code": "ENG-401",
+                "course_name": "Bangladeshi Art & Culture",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-402",
+                "course_name": "Introduction to Sociology & Anthropology",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-403",
+                "course_name": "Introduction to Bengali Literature",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-404A",
+                "course_name": "Old English Literature in Translation",
+                "credits": 2
+              },
+              {
+                "course_code": "ENG-404B",
+                "course_name": "VIVA VOCE",
+                "credits": 1
+              }
+            ],
+            "5": [
+              {
+                "course_code": "ENG-501",
+                "course_name": "Elizabethan & Jacobean Dramas",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-502",
+                "course_name": "17th Century Literature",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-503",
+                "course_name": "Restorational & 18th Century Literature",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-504",
+                "course_name": "Romantic Poetry",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-505",
+                "course_name": "The English Novel From Austen to Hardy",
+                "credits": 3
+              }
+            ],
+            "6": [
+              {
+                "course_code": "ENG-601",
+                "course_name": "Victorian Prose & Poetry",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-602",
+                "course_name": "American Literature-I",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-603",
+                "course_name": "American Literature-II",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-604",
+                "course_name": "Modern English Literature",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-605",
+                "course_name": "South Asian Literature in English",
+                "credits": 3
+              }
+            ],
+            "7": [
+              {
+                "course_code": "ENG-701",
+                "course_name": "African & Caribbean Literature in English",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-702",
+                "course_name": "Literary Criticism & Theory",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-703",
+                "course_name": "Western Classics in Translation",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-704",
+                "course_name": "Asian Classics in Translation",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-705",
+                "course_name": "Latin American Classics in Translation",
+                "credits": 3
+              }
+            ],
+            "8": [
+              {
+                "course_code": "ENG-801",
+                "course_name": "Introduction to Linguistics",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-802",
+                "course_name": "Introduction to English Language Teaching",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-803",
+                "course_name": "Teaching Language through Literature",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-804",
+                "course_name": "Language and Media",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-805",
+                "course_name": "Research Methodology",
+                "credits": 3
+              },
+              {
+                "course_code": "ENG-806",
+                "course_name": "Discourse Analysis & VIVA VOCE",
+                "credits": 3
+              }
+
+            ]
+          }
+          
+      },
+      "BSS (Hon’s.) in Sociology":{
+        "semesters":{
           "1": [
             {
-              "subject_code": "PSYCH101",
-              "subject": "Introduction to Psychology",
-              "credit": 3
+              "course_code": "SOC-101",
+              "course_name": "Introduction to Sociology",
+              "credits": 3
             },
             {
-              "subject_code": "SOC101",
-              "subject": "Sociology",
-              "credit": 3
+              "course_code": "SOC-102",
+              "course_name": "Social Anthropology",
+              "credits": 3
             },
             {
-              "subject_code": "ANTH101",
-              "subject": "Cultural Anthropology",
-              "credit": 3
+              "course_code": "SOC-103",
+              "course_name": "History of Ancient Bengal",
+              "credits": 3
+            },
+            {
+              "course_code": "SOC-104",
+              "course_name": "Social Psychology",
+              "credits": 3
+            },
+            {
+              "course_code": "SOC-105",
+              "course_name": "Basic & Functional English",
+              "credits": 3
             }
           ],
           "2": [
             {
-              "subject_code": "PSYCH201",
-              "subject": "Developmental Psychology",
-              "credit": 3
+              "course_code": "SOC-106",
+              "course_name": "Marriage, Family and Kinship",
+              "credits": 3
             },
             {
-              "subject_code": "PSYCH202",
-              "subject": "Cognitive Psychology",
-              "credit": 3
+              "course_code": "SOC-107",
+              "course_name": "Bengali Language & Literature",
+              "credits": 3
             },
             {
-              "subject_code": "BIO101",
-              "subject": "Introduction to Biology",
-              "credit": 3
+              "course_code": "SOC-108",
+              "course_name": "Social History & World Civilization",
+              "credits": 3
+            },
+            {
+              "course_code": "SOC-109",
+              "course_name": "Social Structure of Bangladesh",
+              "credits": 3
+            },
+            {
+              "course_code": "SOC-110",
+              "course_name": "History of Emergence of Bangladesh",
+              "credits": 3
             }
           ],
           "3": [
             {
-              "subject_code": "PSYCH301",
-              "subject": "Abnormal Psychology",
-              "credit": 3
+              "course_code": "SOC-201",
+              "course_name": "Rural Sociology",
+              "credits": 3
             },
             {
-              "subject_code": "PSYCH302",
-              "subject": "Social Psychology",
-              "credit": 3
+              "course_code": "SOC-202",
+              "course_name": "Political Development of Bangladesh",
+              "credits": 3
             },
             {
-              "subject_code": "PHIL101",
-              "subject": "Philosophy of Mind",
-              "credit": 3
+              "course_code": "SOC-203",
+              "course_name": "Social Problems & Issues",
+              "credits": 3
+            },
+            {
+              "course_code": "SOC-204",
+              "course_name": "Basic and Functional Computers",
+              "credits": 3
+            },
+            {
+              "course_code": "SOC-205",
+              "course_name": "Population & Society",
+              "credits": 3
             }
           ],
           "4": [
             {
-              "subject_code": "PSYCH401",
-              "subject": "Personality Theories",
-              "credit": 3
+              "course_code": "SOC-206",
+              "course_name": "Ancient and Medieval Social Thought",
+              "credits": 3
             },
             {
-              "subject_code": "PSYCH402",
-              "subject": "Industrial-Organizational Psychology",
-              "credit": 3
+              "course_code": "SOC-207",
+              "course_name": "Economy & Society",
+              "credits": 3
             },
             {
-              "subject_code": "COMM101",
-              "subject": "Business Communication",
-              "credit": 3
+              "course_code": "SOC-208",
+              "course_name": "Social Control",
+              "credits": 3
+            },
+            {
+              "course_code": "SOC-209",
+              "course_name": "Social Inequality",
+              "credits": 3
+            },
+            {
+              "course_code": "SOC-210",
+              "course_name": "Fundamentals of Social Research",
+              "credits": 3
             }
           ],
           "5": [
             {
-              "subject_code": "PSYCH501",
-              "subject": "Health Psychology",
-              "credit": 3
+              "course_code": "SOC-301",
+              "course_name": "Classical Sociological Theory",
+              "credits": 3
             },
             {
-              "subject_code": "PSYCH502",
-              "subject": "Educational Psychology",
-              "credit": 3
+              "course_code": "SOC-302",
+              "course_name": "Sociology of Environment",
+              "credits": 3
             },
             {
-              "subject_code": "PHYS101",
-              "subject": "Physics for Psychology",
-              "credit": 3
+              "course_code": "SOC-303",
+              "course_name": "Sociology Of Organization",
+              "credits": 3
+            },
+            {
+              "course_code": "SOC-304",
+              "course_name": "Sociology of Religion",
+              "credits": 3
+            },
+            {
+              "course_code": "SOC-305",
+              "course_name": "Sociology of Education",
+              "credits": 3
             }
           ],
           "6": [
             {
-              "subject_code": "PSYCH601",
-              "subject": "Counseling Psychology",
-              "credit": 3
+              "course_code": "SOC-306",
+              "course_name": "Criminology",
+              "credits": 3
             },
             {
-              "subject_code": "PSYCH602",
-              "subject": "Forensic Psychology",
-              "credit": 3
+              "course_code": "SOC-307",
+              "course_name": "Medical Sociology",
+              "credits": 3
             },
             {
-              "subject_code": "CHEM101",
-              "subject": "General Chemistry",
-              "credit": 3
+              "course_code": "SOC-308",
+              "course_name": "Statistics for Social Analysis",
+              "credits": 3
+            },
+            {
+              "course_code": "SOC-309",
+              "course_name": "Sociology of Development",
+              "credits": 3
+            },
+            {
+              "course_code": "SOC-310",
+              "course_name": "Ethnic Communities of Bangladesh",
+              "credits": 3
             }
           ],
           "7": [
             {
-              "subject_code": "PSYCH701",
-              "subject": "Positive Psychology",
-              "credit": 3
+              "course_code": "SOC-401",
+              "course_name": "Sociology of Disaster",
+              "credits": 3
             },
             {
-              "subject_code": "PSYCH702",
-              "subject": "Cross-Cultural Psychology",
-              "credit": 3
+              "course_code": "SOC-402",
+              "course_name": "Sociology of Poverty",
+              "credits": 3
             },
             {
-              "subject_code": "ECON101",
-              "subject": "Principles of Economics",
-              "credit": 3
+              "course_code": "SOC-403",
+              "course_name": "Social Roles and Regulation",
+              "credits": 3
+            },
+            {
+              "course_code": "SOC-404",
+              "course_name": "Research Methodology",
+              "credits": 3
+            },
+            {
+              "course_code": "SOC-405",
+              "course_name": "Urban Sociology",
+              "credits": 3
             }
           ],
           "8": [
             {
-              "subject_code": "PSYCH801",
-              "subject": "Neuropsychology",
-              "credit": 3
+              "course_code": "SOC-406",
+              "course_name": "Social Change",
+              "credits": 3
             },
             {
-              "subject_code": "PSYCH802",
-              "subject": "Behavioral Neuroscience",
-              "credit": 3
+              "course_code": "SOC-407",
+              "course_name": "History of Modern Europe",
+              "credits": 3
             },
             {
-              "subject_code": "PSYCH803",
-              "subject": "Senior Thesis",
-              "credit": 6
+              "course_code": "SOC-408",
+              "course_name": "Social Administrations",
+              "credits": 3
+            },
+            {
+              "course_code": "SOC-409",
+              "course_name": "Gender & Society",
+              "credits": 3
+            },
+            {
+              "course_code": "SOC-410",
+              "course_name": "Research Monograph",
+              "credits": 3
+            },
+            {
+              "course_code": "SOC-411",
+              "course_name": "Viva Voce",
+              "credits": 3
             }
           ]
         }
+        
+      },
+      "B.Sc. (Hon’s) in Agriculture":{
+        "semesters":{
+          "1": [
+            {
+              "course_code": "AGRON 111",
+              "course_name": "Fundamentals of Agronomy",
+              "credits": 3
+            },
+            {
+              "course_code": "SS 111",
+              "course_name": "Introductory Soil Science",
+              "credits": 3
+            },
+            {
+              "course_code": "ACHEM 111",
+              "course_name": "Nuclear and Agro-industrial Chemistry",
+              "credits": 3
+            },
+            {
+              "course_code": "AGEN 111",
+              "course_name": "Agricultural Mechanization",
+              "credits": 3
+            },
+            {
+              "course_code": "AE 111",
+              "course_name": "Agricultural Economics",
+              "credits": 3
+            },
+            {
+              "course_code": "BAN 111",
+              "course_name": "Bengali Literature",
+              "credits": 3
+            },
+            {
+              "course_code": "ENG 111",
+              "course_name": "English Language",
+              "credits": 3
+            }
+          ],
+          "2": [
+            {
+              "course_code": "AGRON 121",
+              "course_name": "Seed Science and Technology",
+              "credits": 3
+            },
+            {
+              "course_code": "HORT 121",
+              "course_name": "Fundamentals of Horticulture",
+              "credits": 3
+            },
+            {
+              "course_code": "BCHEM 121",
+              "course_name": "Chemistry of Biomolecules",
+              "credits": 3
+            },
+            {
+              "course_code": "RS 121",
+              "course_name": "Rural Sociology",
+              "credits": 3
+            },
+            {
+              "course_code": "STAT 121",
+              "course_name": "Agricultural Statistics",
+              "credits": 3
+            },
+            {
+              "course_code": "AGEXT 121",
+              "course_name": "Fundamentals of Extension, Leadership and Motivation",
+              "credits": 3
+            },
+            {
+              "course_code": "BS 121",
+              "course_name": "Bangladesh Studies",
+              "credits": 3
+            }
+          ],
+          "3": [
+            {
+              "course_code": "AGRON 231",
+              "course_name": "Weed Science",
+              "credits": 3
+            },
+            {
+              "course_code": "SS 231",
+              "course_name": "Soil Classification, Survey & Conservation",
+              "credits": 3
+            },
+            {
+              "course_code": "HORT 231",
+              "course_name": "Ornamental Horticulture & Plantation Crops",
+              "credits": 3
+            },
+            {
+              "course_code": "AGEXT 232",
+              "course_name": "Extension Teaching Methods and Aids",
+              "credits": 3
+            },
+            {
+              "course_code": "BCHEM 231",
+              "course_name": "Metabolism and Human Nutrition",
+              "credits": 3
+            },
+            {
+              "course_code": "CBOT 231",
+              "course_name": "Plant Morphology, Embryology and Taxonomy",
+              "credits": 3
+            }
+          ],
+          "4": [
+            {
+              "course_code": "ENTOM 241",
+              "course_name": "Introductory Entomology",
+              "credits": 3
+            },
+            {
+              "course_code": "PPATH 241",
+              "course_name": "Introductory Plant Pathology",
+              "credits": 3
+            },
+            {
+              "course_code": "GPB 241",
+              "course_name": "Cytology and Cytogenetics",
+              "credits": 3
+            },
+            {
+              "course_code": "AGROF 241",
+              "course_name": "Agroforestry",
+              "credits": 3
+            },
+            {
+              "course_code": "AGEN 241",
+              "course_name": "Introduction to Computer Applications",
+              "credits": 3
+            }
+          ],
+          "5": [
+            {
+              "course_code": "AGRON 351",
+              "course_name": "Crop Production Technology",
+              "credits": 3
+            },
+            {
+              "course_code": "HORT 351",
+              "course_name": "Vegetables & Spice Crops",
+              "credits": 3
+            },
+            {
+              "course_code": "GPB 351",
+              "course_name": "Genetics",
+              "credits": 3
+            },
+            {
+              "course_code": "ACHEM 351",
+              "course_name": "Plant Nutrition, Pesticide and Environmental Chemistry",
+              "credits": 3
+            },
+            {
+              "course_code": "AGEXT 351",
+              "course_name": "Extension Communication and Technology Transfer",
+              "credits": 3
+            }
+          ],
+          "6": [
+            {
+              "course_code": "SS 361",
+              "course_name": "Soil Physics & Soil Chemistry",
+              "credits": 3
+            },
+            {
+              "course_code": "ENTOM 361",
+              "course_name": "Insect Ecology & Pest Management",
+              "credits": 3
+            },
+            {
+              "course_code": "PPATH 361",
+              "course_name": "Principles of Plant Pathology & Diseases of Field Crops",
+              "credits": 3
+            },
+            {
+              "course_code": "CBOT 361",
+              "course_name": "Plant Physiology",
+              "credits": 3
+            },
+            {
+              "course_code": "ENVS 361",
+              "course_name": "Agro-ecology and Environmental Science",
+              "credits": 3
+            }
+          ],
+          "7": [
+            {
+              "course_code": "ENTOM 471",
+              "course_name": "Economic Entomology",
+              "credits": 3
+            },
+            {
+              "course_code": "PPATH 471",
+              "course_name": "Diseases of Fruits, Vegetables, Cash Crops, Agro-forest Trees and Seed Pathology",
+              "credits": 3
+            },
+            {
+              "course_code": "CBOT 471",
+              "course_name": "Plant Ecology",
+              "credits": 3
+            },
+            {
+              "course_code": "AGEXT 471",
+              "course_name": "Extension Organization and Management",
+              "credits": 3
+            },
+            {
+              "course_code": "ANSF 471",
+              "course_name": "Livestock and Poultry Production",
+              "credits": 3
+            }
+          ],
+          "8": [
+            {
+              "course_code": "AGRON 481",
+              "course_name": "Farm Management and Farming System",
+              "credits": 3
+            },
+            {
+              "course_code": "HORT 481",
+              "course_name": "Fruit Production and Orchard Management",
+              "credits": 3
+            },
+            {
+              "course_code": "SS 481",
+              "course_name": "Soil Fertility & Soil Microbiology",
+              "credits": 3
+            },
+            {
+              "course_code": "GPB 481",
+              "course_name": "Plant Breeding",
+              "credits": 3
+            },
+            {
+              "course_code": "ANSF 481",
+              "course_name": "Integrated Fish Farming",
+              "credits": 3
+            },
+            {
+              "course_code": "AGRON 480",
+              "course_name": "Project Paper",
+              "credits": 3
+            }
+          ]
+        }
+        
       }
+      
     }
+   
   }
   
