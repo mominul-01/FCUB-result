@@ -1,0 +1,868 @@
+{
+    "semesters": {
+      "1": [
+        {
+          "course_code": "CSE-111",
+          "course_name": "Introduction to Computer Systems",
+          "credits": 3.0
+        },
+        {
+          "course_code": "EEE-111",
+          "course_name": "Introduction to Digital Electronics",
+          "credits": 3.0
+        },
+        {
+          "course_code": "EEE-112",
+          "course_name": "Introduction to Digital Electronics Lab",
+          "credits": 1.5
+        },
+        {
+          "course_code": "PHY-111",
+          "course_name": "Physics-I",
+          "credits": 3.0
+        },
+        {
+          "course_code": "MATH-111",
+          "course_name": "Linear Algebra & Co-ordinate Geometry",
+          "credits": 3.0
+        },
+        {
+          "course_code": "GED-111",
+          "course_name": "Principles of Accounting",
+          "credits": 3.0
+        },
+        {
+          "course_code": "GED-112",
+          "course_name": "Bangladesh Studies",
+          "credits": 2.0
+        },
+        {
+          "course_code": "BANG-111",
+          "course_name": "Functional Bengali language",
+          "credits": 2.0
+        }
+      ],
+      "2": [
+        {
+          "course_code": "CSE-121",
+          "course_name": "Structured Programming Using C",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-122",
+          "course_name": "Structured Programming Using C Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "CSE-123",
+          "course_name": "Digital Logic Design",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-124",
+          "course_name": "Digital Logic Design Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "EEE-121",
+          "course_name": "Electronic Device & Circuits",
+          "credits": 3.0
+        },
+        {
+          "course_code": "EEE-122",
+          "course_name": "Electronic Device & Circuits lab",
+          "credits": 1.5
+        },
+        {
+          "course_code": "PHY-121",
+          "course_name": "Physics- II",
+          "credits": 3.0
+        },
+        {
+          "course_code": "PHY-122",
+          "course_name": "Physics- II Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "MATH-121",
+          "course_name": "Differential and Integral Calculus",
+          "credits": 3.0
+        },
+        {
+          "course_code": "ENG-121",
+          "course_name": "Basic English",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-125",
+          "course_name": "Viva Voce",
+          "credits": 1.0
+        }
+      ],
+      "3": [
+        {
+          "course_code": "CSE-211",
+          "course_name": "Data Structures",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-212",
+          "course_name": "Data Structures Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "CSE-213",
+          "course_name": "Discrete Mathematics",
+          "credits": 3.0
+        },
+        {
+          "course_code": "ED-211",
+          "course_name": "Engineering Drawing",
+          "credits": 1.0
+        },
+        {
+          "course_code": "ED-212",
+          "course_name": "Engineering Drawing Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "CHEM-211",
+          "course_name": "Chemistry",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CHEM-212",
+          "course_name": "Chemistry Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "MATH-211",
+          "course_name": "Statistical Methods & Probability",
+          "credits": 3.0
+        },
+        {
+          "course_code": "ENG-211",
+          "course_name": "Communicative English",
+          "credits": 2.0
+        },
+        {
+          "course_code": "GED-211",
+          "course_name": "Principles of Economics",
+          "credits": 3.0
+        }
+      ],
+      "4": [
+        {
+          "course_code": "CSE-221",
+          "course_name": "Object Oriented Programming",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-222",
+          "course_name": "Object Oriented Programming Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "CSE-223",
+          "course_name": "Algorithm Design and Analysis",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-224",
+          "course_name": "Algorithm Design and Analysis Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "CSE-225",
+          "course_name": "Numerical Methods",
+          "credits": 2.0
+        },
+        {
+          "course_code": "MATH-221",
+          "course_name": "Differential Equations & Vector Analysis",
+          "credits": 3.0
+        },
+        {
+          "course_code": "GED-221",
+          "course_name": "Law & Ethics in Engineering Practice",
+          "credits": 2.0
+        },
+        {
+          "course_code": "GED-222",
+          "course_name": "Social History and World Civilization",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-226",
+          "course_name": "Viva Voce",
+          "credits": 1.0
+        }
+      ],
+      "5": [
+        {
+          "course_code": "CSE-311",
+          "course_name": "Computer Organization & Architecture",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-312",
+          "course_name": "Data and Telecommunication",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-313",
+          "course_name": "Microprocessor, Microcontroller and Assembly Language",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-314",
+          "course_name": "Microprocessor, Microcontroller and Assembly Language Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "CSE-315",
+          "course_name": "Database Management Systems",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-316",
+          "course_name": "Database Management Systems Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "GED-311",
+          "course_name": "Principles of Management",
+          "credits": 2.0
+        },
+        {
+          "course_code": "CSE-317",
+          "course_name": "Elective Course (Section II Minor group)",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-318",
+          "course_name": "Elective Course (Section II Minor group)",
+          "credits": 3.0
+        }
+      ],
+      "6": [
+        {
+          "course_code": "CSE-321",
+          "course_name": "Operating Systems",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-322",
+          "course_name": "Operating Systems Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "CSE-323",
+          "course_name": "Computer Networks",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-324",
+          "course_name": "Computer Networks Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "CSE-325",
+          "course_name": "Software Engineering",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-326",
+          "course_name": "Software Engineering Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "CSE-327",
+          "course_name": "Compiler Design",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-328",
+          "course_name": "Compiler Design Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "CSE-329",
+          "course_name": "Elective Course (Section I Major group)",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-330",
+          "course_name": "Viva Voce",
+          "credits": 1.0
+        }
+      ],
+      "7": [
+        {
+          "course_code": "CSE-411",
+          "course_name": "Simulation and Modeling",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-412",
+          "course_name": "Simulation and Modeling Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "CSE-413",
+          "course_name": "Computer Graphics",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-414",
+          "course_name": "Computer Graphics Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "CSE-415",
+          "course_name": "Artificial Intelligence and Neural Networking",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-416",
+          "course_name": "Artificial Intelligence and Neural Networking Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "CSE-417",
+          "course_name": "E-Commerce and Web Engineering",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-418",
+          "course_name": "E-Commerce and Web Engineering Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "CSE-419",
+          "course_name": "Elective Course (Section I Major group)",
+          "credits": 3.0
+        }
+      ],
+      "8": [
+        {
+          "course_code": "CSE-421",
+          "course_name": "Digital Signal Processing",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-422",
+          "course_name": "Digital Signal Processing Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "CSE-423",
+          "course_name": "Mobile Application development",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-424",
+          "course_name": "Mobile Application development Lab",
+          "credits": 1.0
+        },
+        {
+          "course_code": "CSE-425",
+          "course_name": "Elective Course (Section I Major group)",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-426",
+          "course_name": "Project Work",
+          "credits": 3.0
+        },
+        {
+          "course_code": "CSE-427",
+          "course_name": "Field work and Industrial Tour",
+          "credits": 1.0
+        },
+        {
+          "course_code": "CSE-428",
+          "course_name": "Viva - Voce",
+          "credits": 1.0
+        }
+      ]
+    },
+    "summary": {
+      "1": {
+        "credits": 20.5
+      },
+      "2": {
+        "credits": 23.5
+      },
+      "3": {
+        "credits": 21.0
+      },
+      "4": {
+        "credits": 19.0
+      },
+      "5": {
+        "credits": 22.0
+      },
+      "6": {
+        "credits": 20.0
+      },
+      "7": {
+        "credits": 19.0
+      },
+      "8": {
+        "credits": 17.0
+      }
+    },
+    "total_credits": 162.0
+  },
+  {
+    "level_1_odd": [
+      {
+        "sl_no": 1,
+        "course_number": "EEE-101",
+        "course_title": "Electrical Circuits-I",
+        "credits": 3
+      },
+      {
+        "sl_no": 2,
+        "course_number": "CSE-109",
+        "course_title": "Computer Programming",
+        "credits": 2
+      },
+      {
+        "sl_no": 3,
+        "course_number": "CSE-110",
+        "course_title": "Computer Programming Laboratory",
+        "credits": 1
+      },
+      {
+        "sl_no": 4,
+        "course_number": "Math-111",
+        "course_title": "Math-I (Differential and Integral Calculus)",
+        "credits": 3
+      },
+      {
+        "sl_no": 5,
+        "course_number": "Phy-101",
+        "course_title": "Physics-I",
+        "credits": 3
+      },
+      {
+        "sl_no": 6,
+        "course_number": "Phy-102",
+        "course_title": "Physics-I Laboratory",
+        "credits": 1.5
+      },
+      {
+        "sl_no": 7,
+        "course_number": "Hum-111",
+        "course_title": "English-I",
+        "credits": 3
+      },
+      {
+        "sl_no": 8,
+        "course_number": "Hum-112",
+        "course_title": "Developing English Skills Laboratory-I",
+        "credits": 1.5
+      },
+      {
+        "sl_no": 9,
+        "course_number": "Bang-101",
+        "course_title": "Bengali Language and Literature",
+        "credits": 3
+      }
+    ],
+    "level_1_even": [
+      {
+        "sl_no": 1,
+        "course_number": "EEE-103",
+        "course_title": "Electrical Circuits-II",
+        "credits": 3
+      },
+      {
+        "sl_no": 2,
+        "course_number": "EEE-104",
+        "course_title": "Electrical Circuits Laboratory",
+        "credits": 2
+      },
+      {
+        "sl_no": 3,
+        "course_number": "EEE-107",
+        "course_title": "Electronics-I",
+        "credits": 3
+      },
+      {
+        "sl_no": 4,
+        "course_number": "EEE-106",
+        "course_title": "Electronics-I Laboratory",
+        "credits": 2
+      },
+      {
+        "sl_no": 5,
+        "course_number": "Math-113",
+        "course_title": "Math-II (Differential Equation)",
+        "credits": 3
+      },
+      {
+        "sl_no": 6,
+        "course_number": "Phy-103",
+        "course_title": "Physics-II",
+        "credits": 3
+      },
+      {
+        "sl_no": 7,
+        "course_number": "Phy-104",
+        "course_title": "Physics-II Laboratory",
+        "credits": 1.5
+      },
+      {
+        "sl_no": 8,
+        "course_number": "Chem-101",
+        "course_title": "General Chemistry",
+        "credits": 3
+      },
+      {
+        "sl_no": 9,
+        "course_number": "Chem-102",
+        "course_title": "General Chemistry Laboratory",
+        "credits": 1.5
+      }
+    ],
+    "level_2_odd": [
+      {
+        "sl_no": 1,
+        "course_number": "EEE-201",
+        "course_title": "Electronics-II",
+        "credits": 3
+      },
+      {
+        "sl_no": 2,
+        "course_number": "EEE-202",
+        "course_title": "Circuits Simulation Laboratory",
+        "credits": 2
+      },
+      {
+        "sl_no": 3,
+        "course_number": "EEE-203",
+        "course_title": "Electrical Machines-I",
+        "credits": 3
+      },
+      {
+        "sl_no": 4,
+        "course_number": "Hum-277",
+        "course_title": "Engineering Ethics",
+        "credits": 1.5
+      },
+      {
+        "sl_no": 5,
+        "course_number": "Math-211",
+        "course_title": "Math-III (Matrices and Vector Analysis)",
+        "credits": 3
+      },
+      {
+        "sl_no": 6,
+        "course_number": "Hum-213",
+        "course_title": "English-II",
+        "credits": 3
+      },
+      {
+        "sl_no": 7,
+        "course_number": "Hum-214",
+        "course_title": "Developing English Skills Laboratory-II",
+        "credits": 1.5
+      },
+      {
+        "sl_no": 8,
+        "course_number": "Phy-201",
+        "course_title": "Physics-III",
+        "credits": 3
+      },
+      {
+        "sl_no": 9,
+        "course_number": "Phy-202",
+        "course_title": "Physics-III Laboratory",
+        "credits": 1.5
+      }
+    ],
+    "level_2_even": [
+      {
+        "sl_no": 1,
+        "course_number": "EEE-205",
+        "course_title": "Electrical Machines-II",
+        "credits": 3
+      },
+      {
+        "sl_no": 2,
+        "course_number": "EEE-206",
+        "course_title": "Electrical Machines Laboratory",
+        "credits": 2
+      },
+      {
+        "sl_no": 3,
+        "course_number": "EEE-207",
+        "course_title": "Continuous Signal and Linear System",
+        "credits": 3
+      },
+      {
+        "sl_no": 4,
+        "course_number": "ME-263",
+        "course_title": "Fundamentals of Mechanical Engineering",
+        "credits": 2
+      },
+      {
+        "sl_no": 5,
+        "course_number": "ME-264",
+        "course_title": "Fundamentals of Mechanical Engineering Laboratory",
+        "credits": 1
+      },
+      {
+        "sl_no": 6,
+        "course_number": "Math-213",
+        "course_title": "Math-IV (Complex Variable and Coordinate Geometry)",
+        "credits": 3
+      },
+      {
+        "sl_no": 7,
+        "course_number": "Hum-237",
+        "course_title": "Fundamentals of Economics",
+        "credits": 2.5
+      },
+      {
+        "sl_no": 8,
+        "course_number": "CE-252",
+        "course_title": "Engineering Drawing",
+        "credits": 0.5
+      },
+      {
+        "sl_no": 9,
+        "course_number": "Hum-215",
+        "course_title": "Bangladesh Studies",
+        "credits": 3
+      }
+    ],
+    "level_3_odd": [
+      {
+        "sl_no": 1,
+        "course_number": "EEE-301",
+        "course_title": "Digital Electronics",
+        "credits": 3
+      },
+      {
+        "sl_no": 2,
+        "course_number": "EEE-302",
+        "course_title": "Digital Electronics Laboratory",
+        "credits": 2
+      },
+      {
+        "sl_no": 3,
+        "course_number": "EEE-303",
+        "course_title": "Power System-I",
+        "credits": 3
+      },
+      {
+        "sl_no": 4,
+        "course_number": "EEE-304",
+        "course_title": "Power System-I Laboratory",
+        "credits": 2
+      },
+      {
+        "sl_no": 5,
+        "course_number": "EEE-313",
+        "course_title": "Digital Signal Processing-I",
+        "credits": 3
+      },
+      {
+        "sl_no": 6,
+        "course_number": "EEE-314",
+        "course_title": "Digital Signal Processing Laboratory-I",
+        "credits": 2
+      },
+      {
+        "sl_no": 7,
+        "course_number": "Math-311",
+        "course_title": "Math-V (Probability and Statistics)",
+        "credits": 3
+      },
+      {
+        "sl_no": 8,
+        "course_number": "Hum-379",
+        "course_title": "Industrial Management",
+        "credits": 3
+      }
+    ],
+    "level_3_even": [
+      {
+        "sl_no": 1,
+        "course_number": "EEE-305",
+        "course_title": "Electrical Properties of Materials",
+        "credits": 3
+      },
+      {
+        "sl_no": 2,
+        "course_number": "EEE-307",
+        "course_title": "Communication Engineering",
+        "credits": 3
+      },
+      {
+        "sl_no": 3,
+        "course_number": "EEE-310",
+        "course_title": "Electrical Services Design",
+        "credits": 3
+      },
+      {
+        "sl_no": 4,
+        "course_number": "EEE-315",
+        "course_title": "Microprocessor and Interfacing",
+        "credits": 3
+      },
+      {
+        "sl_no": 5,
+        "course_number": "EEE-316",
+        "course_title": "Microprocessor and Interfacing Laboratory",
+        "credits": 2
+      },
+      {
+        "sl_no": 6,
+        "course_number": "EEE-317",
+        "course_title": "Communication Theory",
+        "credits": 3
+      },
+      {
+        "sl_no": 7,
+        "course_number": "Hum-393",
+        "course_title": "Financial and Managerial Accounting",
+        "credits": 3
+      },
+      {
+        "sl_no": 8,
+        "course_number": "EEE-312",
+        "course_title": "Numerical Technique Laboratory",
+        "credits": 3
+      },
+      {
+        "sl_no": 9,
+        "course_number": "EEE-320",
+        "course_title": "Industrial Training/Attachment",
+        "credits": 0
+      }
+    ],
+    "level_4_odd": [
+      {
+        "sl_no": 1,
+        "course_number": "EEE-400",
+        "course_title": "Project/Thesis",
+        "credits": 2.5
+      },
+      {
+        "sl_no": 2,
+        "course_number": "EEE-402",
+        "course_title": "Communication Laboratory",
+        "credits": 2
+      },
+      {
+        "sl_no": 3,
+        "course_number": "EEE-403",
+        "course_title": "Control System-I",
+        "credits": 3
+      },
+      {
+        "sl_no": 4,
+        "course_number": "EEE-404",
+        "course_title": "Control System-I Laboratory",
+        "credits": 2
+      },
+      {
+        "sl_no": 5,
+        "course_number": "EEE-4**",
+        "course_title": "Elective-I",
+        "credits": 2
+      },
+      {
+        "sl_no": 6,
+        "course_number": "EEE-4**",
+        "course_title": "Elective-II",
+        "credits": 2
+      },
+      {
+        "sl_no": 7,
+        "course_number": "EEE-4**",
+        "course_title": "Elective-III",
+        "credits": 2
+      },
+      {
+        "sl_no": 8,
+        "course_number": "EEE-4**",
+        "course_title": "Elective-III Laboratory",
+        "credits": 1
+      },
+      {
+        "sl_no": 9,
+        "course_number": "CSE-411",
+        "course_title": "Computer Networking",
+        "credits": 2
+      }
+    ],
+    "level_4_even": [
+      {
+        "sl_no": 1,
+        "course_number": "EEE-400",
+        "course_title": "Project/Thesis",
+        "credits": 2.5
+      },
+      {
+        "sl_no": 2,
+        "course_number": "EEE-405",
+        "course_title": "Solid State Devices",
+        "credits": 3
+      },
+      {
+        "sl_no": 3,
+        "course_number": "EEE-407",
+        "course_title": "Communication Engineering",
+        "credits": 3
+      },
+      {
+        "sl_no": 4,
+        "course_number": "EEE-409",
+        "course_title": "Processing and Fabrication Technology",
+        "credits": 3
+      },
+      {
+        "sl_no": 5,
+        "course_number": "CSE-412",
+        "course_title": "Computer Networking Laboratory",
+        "credits": 1
+      },
+      {
+        "sl_no": 6,
+        "course_number": "EEE-4**",
+        "course_title": "Elective-IV",
+        "credits": 2
+      },
+      {
+        "sl_no": 7,
+        "course_number": "EEE-4**",
+        "course_title": "Elective-IV Laboratory",
+        "credits": 1
+      },
+      {
+        "sl_no": 8,
+        "course_number": "EEE-4**",
+        "course_title": "Elective-V",
+        "credits": 2
+      },
+      {
+        "sl_no": 9,
+        "course_number": "EEE-4**",
+        "course_title": "Elective-VI",
+        "credits": 3
+      },
+      {
+        "sl_no": 10,
+        "course_number": "EEE-4**",
+        "course_title": "Elective-VI Laboratory",
+        "credits": 1.5
+      }
+    ]
+  }
+  
