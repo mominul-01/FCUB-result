@@ -3,6 +3,7 @@ import BatchInput from './Batch';
 import IdInput from './IdInput';
 import Program from './Program';
 import Semester from './Semester';
+import Subject from './Subject';
 
 const ResultPage = () => {
     return (
@@ -17,6 +18,10 @@ const ResultPage = () => {
 
             </div>
             
+
+            <div>
+                <Subject></Subject>
+            </div>
             
 
         </div>

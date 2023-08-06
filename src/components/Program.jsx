@@ -21,12 +21,12 @@ const Program = () => {
           >
         <option value="">Select Program</option>
         <option value="BBA">BBA</option>
-        {
+        {/* {
           data.departments.map((item,i) => (
             <option key={i} value="BBA">{ item}</option>
 
           ))
-        }
+        } */}
         <option value="LLB">LLB</option>
         <option value="Sociology">Sociology</option>
         <option value="English">English</option>
@@ -35,6 +35,10 @@ const Program = () => {
         <option value="EEE">EEE</option>
         <option value="BPH">BPH</option>
       </select>
+
+      {
+        data.map
+      }
     </div>
   );
 };
