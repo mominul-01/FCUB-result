@@ -1,5 +1,6 @@
 
 import BatchInput from './Batch';
+import IdInput from './IdInput';
 import Program from './Program';
 import Semester from './Semester';
 
@@ -12,8 +13,10 @@ const ResultPage = () => {
                 <Program></Program>
                 <Semester></Semester>
                 <BatchInput></BatchInput>
+                <IdInput></IdInput>
 
             </div>
+            
             
 
         </div>

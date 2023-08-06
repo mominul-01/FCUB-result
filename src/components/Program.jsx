@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import data from '../../public/subject.json' 
 
 const Program = () => {
   const [selectedProgram, setSelectedProgram] = useState('');
@@ -9,6 +10,9 @@ const Program = () => {
     console.log(`Selected Program: ${selectedProgramValue}`);
   };
 
+  console.log(data);
+
+
   return (
     <div className=' p-5 '>
       <label htmlFor="program-dropdown" className='text-2xl  p-3'>Program Name:</label>
@@ -17,6 +21,12 @@ const Program = () => {
           >
         <option value="">Select Program</option>
         <option value="BBA">BBA</option>
+        {
+          data.departments.map((item,i) => (
+            <option key={i} value="BBA">{ item}</option>
+
+          ))
+        }
         <option value="LLB">LLB</option>
         <option value="Sociology">Sociology</option>
         <option value="English">English</option>

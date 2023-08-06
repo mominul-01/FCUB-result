@@ -1,0 +1,190 @@
+{
+    "departments": [
+        { "id": 1, "title": "cse" },
+        { "id": 2, "title": "eee" },
+        { "id": 3, "title": "agro" }
+       
+      ],
+      "subject":[ 
+
+      {
+        "cse": [
+
+
+            { "semester": 1, "subjects": ["Physic","Math","English","C"]  },
+            { "semester": 2, "subjects": ["Physic","Math","English","C"]  },
+            { "semester": 3, "subjects": ["Physic","Math","English","C"]  },
+            { "semester": 4, "subjects": ["Physic","Math","English","C"]  },
+            { "semester": 5, "subjects": ["Physic","Math","English","C"]  },
+            { "semester": 6, "subjects": ["Physic","Math","English","C"]  },
+            { "semester": 7, "subjects": ["Physic","Math","English","C"]  },
+            { "semester": 8, "subjects": ["Physic","Math","English","C"]  }
+           
+        ]
+      
+      },
+
+      {
+        "eee": [
+
+
+            { "semester": 1, "subjects": ["Physic","Math","English","C"]  },
+            { "semester": 2, "subjects": ["Physic","Math","English","C"]  },
+            { "semester": 3, "subjects": ["Physic","Math","English","C"]  },
+            { "semester": 4, "subjects": ["Physic","Math","English","C"]  },
+            { "semester": 5, "subjects": ["Physic","Math","English","C"]  },
+            { "semester": 6, "subjects": ["Physic","Math","English","C"]  },
+            { "semester": 7, "subjects": ["Physic","Math","English","C"]  },
+            { "semester": 8, "subjects": ["Physic","Math","English","C"]  }
+           
+        ]
+      
+      }
+
+    ]
+  
+},
+
+
+
+{
+    "semesters": {
+      "1": [
+        {
+          "subject_code": "ENG101",
+          "subject": "English Composition",
+          "credit": 3
+        },
+        {
+          "subject_code": "MATH101",
+          "subject": "Calculus I",
+          "credit": 4
+        },
+        {
+          "subject_code": "HIST101",
+          "subject": "World History",
+          "credit": 3
+        }
+      ],
+      "2": [
+        {
+          "subject_code": "ENG102",
+          "subject": "English Literature",
+          "credit": 3
+        },
+        {
+          "subject_code": "MATH102",
+          "subject": "Calculus II",
+          "credit": 4
+        },
+        {
+          "subject_code": "SCI101",
+          "subject": "Introduction to Physics",
+          "credit": 3
+        }
+      ],
+      "3": [
+        {
+          "subject_code": "ECON101",
+          "subject": "Principles of Economics",
+          "credit": 3
+        },
+        {
+          "subject_code": "PHIL101",
+          "subject": "Introduction to Philosophy",
+          "credit": 3
+        },
+        {
+          "subject_code": "CS101",
+          "subject": "Introduction to Computer Science",
+          "credit": 3
+        }
+      ],
+      "4": [
+        {
+          "subject_code": "PSYCH101",
+          "subject": "Introduction to Psychology",
+          "credit": 3
+        },
+        {
+          "subject_code": "BIO101",
+          "subject": "Biology I",
+          "credit": 4
+        },
+        {
+          "subject_code": "CHEM101",
+          "subject": "Chemistry I",
+          "credit": 4
+        }
+      ],
+      "5": [
+        {
+          "subject_code": "MKTG101",
+          "subject": "Marketing Fundamentals",
+          "credit": 3
+        },
+        {
+          "subject_code": "FIN101",
+          "subject": "Introduction to Finance",
+          "credit": 3
+        },
+        {
+          "subject_code": "STAT101",
+          "subject": "Statistics",
+          "credit": 3
+        }
+      ],
+      "6": [
+        {
+          "subject_code": "MGMT101",
+          "subject": "Principles of Management",
+          "credit": 3
+        },
+        {
+          "subject_code": "COMM101",
+          "subject": "Communication Skills",
+          "credit": 3
+        },
+        {
+          "subject_code": "ART101",
+          "subject": "Introduction to Art",
+          "credit": 3
+        }
+      ],
+      "7": [
+        {
+          "subject_code": "SOC101",
+          "subject": "Sociology",
+          "credit": 3
+        },
+        {
+          "subject_code": "ANTH101",
+          "subject": "Cultural Anthropology",
+          "credit": 3
+        },
+        {
+          "subject_code": "POLSCI101",
+          "subject": "Political Science",
+          "credit": 3
+        }
+      ],
+      "8": [
+        {
+          "subject_code": "PHYS101",
+          "subject": "Physics II",
+          "credit": 4
+        },
+        {
+          "subject_code": "ENG202",
+          "subject": "Advanced English Composition",
+          "credit": 3
+        },
+        {
+          "subject_code": "PHIL201",
+          "subject": "Ethics",
+          "credit": 3
+        }
+      ]
+    }
+  }
+  

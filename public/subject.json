@@ -1,0 +1,705 @@
+{
+    "departments": {
+      "Computer Science": {
+        "semesters": {
+          "1": [
+            {
+              "subject_code": "CS101",
+              "subject": "Introduction to Programming",
+              "credit": 3
+            },
+            {
+              "subject_code": "MATH101",
+              "subject": "Discrete Mathematics",
+              "credit": 4
+            },
+            {
+              "subject_code": "ENG101",
+              "subject": "Technical Writing",
+              "credit": 3
+            }
+          ],
+          "2": [
+            {
+              "subject_code": "CS201",
+              "subject": "Data Structures",
+              "credit": 3
+            },
+            {
+              "subject_code": "MATH102",
+              "subject": "Linear Algebra",
+              "credit": 4
+            },
+            {
+              "subject_code": "PHY101",
+              "subject": "Physics for CS",
+              "credit": 3
+            }
+          ],
+          "3": [
+            {
+              "subject_code": "CS301",
+              "subject": "Algorithms",
+              "credit": 3
+            },
+            {
+              "subject_code": "CS302",
+              "subject": "Database Systems",
+              "credit": 3
+            },
+            {
+              "subject_code": "CS303",
+              "subject": "Operating Systems",
+              "credit": 3
+            }
+          ],
+          "4": [
+            {
+              "subject_code": "CS401",
+              "subject": "Software Engineering",
+              "credit": 3
+            },
+            {
+              "subject_code": "CS402",
+              "subject": "Computer Networks",
+              "credit": 3
+            },
+            {
+              "subject_code": "CS403",
+              "subject": "Web Development",
+              "credit": 3
+            }
+          ],
+          "5": [
+            {
+              "subject_code": "CS501",
+              "subject": "Machine Learning",
+              "credit": 3
+            },
+            {
+              "subject_code": "CS502",
+              "subject": "Artificial Intelligence",
+              "credit": 3
+            },
+            {
+              "subject_code": "CS503",
+              "subject": "Cybersecurity",
+              "credit": 3
+            }
+          ],
+          "6": [
+            {
+              "subject_code": "CS601",
+              "subject": "Big Data Analytics",
+              "credit": 3
+            },
+            {
+              "subject_code": "CS602",
+              "subject": "Cloud Computing",
+              "credit": 3
+            },
+            {
+              "subject_code": "CS603",
+              "subject": "Software Testing",
+              "credit": 3
+            }
+          ],
+          "7": [
+            {
+              "subject_code": "CS701",
+              "subject": "Natural Language Processing",
+              "credit": 3
+            },
+            {
+              "subject_code": "CS702",
+              "subject": "Parallel Computing",
+              "credit": 3
+            },
+            {
+              "subject_code": "CS703",
+              "subject": "Computer Graphics",
+              "credit": 3
+            }
+          ],
+          "8": [
+            {
+              "subject_code": "CS801",
+              "subject": "Distributed Systems",
+              "credit": 3
+            },
+            {
+              "subject_code": "CS802",
+              "subject": "Software Security",
+              "credit": 3
+            },
+            {
+              "subject_code": "CS803",
+              "subject": "Capstone Project",
+              "credit": 6
+            }
+          ]
+        }
+      },
+      "Biology": {
+        "semesters": {
+          "1": [
+            {
+              "subject_code": "BIO101",
+              "subject": "Introduction to Biology",
+              "credit": 3
+            },
+            {
+              "subject_code": "CHEM101",
+              "subject": "General Chemistry",
+              "credit": 4
+            },
+            {
+              "subject_code": "MATH101",
+              "subject": "Calculus for Biology",
+              "credit": 3
+            }
+          ],
+          "2": [
+            {
+              "subject_code": "BIO201",
+              "subject": "Genetics",
+              "credit": 3
+            },
+            {
+              "subject_code": "PHYS101",
+              "subject": "Physics for Biology",
+              "credit": 4
+            },
+            {
+              "subject_code": "BIO202",
+              "subject": "Cell Biology",
+              "credit": 3
+            }
+          ],
+          "3": [
+            {
+              "subject_code": "BIO301",
+              "subject": "Ecology",
+              "credit": 3
+            },
+            {
+              "subject_code": "BIO302",
+              "subject": "Microbiology",
+              "credit": 3
+            },
+            {
+              "subject_code": "BIO303",
+              "subject": "Biochemistry",
+              "credit": 3
+            }
+          ],
+          "4": [
+            {
+              "subject_code": "BIO401",
+              "subject": "Evolutionary Biology",
+              "credit": 3
+            },
+            {
+              "subject_code": "BIO402",
+              "subject": "Anatomy and Physiology",
+              "credit": 3
+            },
+            {
+              "subject_code": "BIO403",
+              "subject": "Biostatistics",
+              "credit": 3
+            }
+          ],
+          "5": [
+            {
+              "subject_code": "BIO501",
+              "subject": "Plant Biology",
+              "credit": 3
+            },
+            {
+              "subject_code": "BIO502",
+              "subject": "Animal Behavior",
+              "credit": 3
+            },
+            {
+              "subject_code": "BIO503",
+              "subject": "Immunology",
+              "credit": 3
+            }
+          ],
+          "6": [
+            {
+              "subject_code": "BIO601",
+              "subject": "Neuroscience",
+              "credit": 3
+            },
+            {
+              "subject_code": "BIO602",
+              "subject": "Developmental Biology",
+              "credit": 3
+            },
+            {
+              "subject_code": "BIO603",
+              "subject": "Molecular Biology",
+              "credit": 3
+            }
+          ],
+          "7": [
+            {
+              "subject_code": "BIO701",
+              "subject": "Marine Biology",
+              "credit": 3
+            },
+            {
+              "subject_code": "BIO702",
+              "subject": "Ecological Genetics",
+              "credit": 3
+            },
+            {
+              "subject_code": "BIO703",
+              "subject": "Conservation Biology",
+              "credit": 3
+            }
+          ],
+          "8": [
+            {
+              "subject_code": "BIO801",
+              "subject": "Biotechnology",
+              "credit": 3
+            },
+            {
+              "subject_code": "BIO802",
+              "subject": "Bioinformatics",
+              "credit": 3
+            },
+            {
+              "subject_code": "BIO803",
+              "subject": "Research Project",
+              "credit": 6
+            }
+          ]
+        }
+      },
+      "History": {
+        "semesters": {
+          "1": [
+            {
+              "subject_code": "HIST101",
+              "subject": "Ancient Civilizations",
+              "credit": 3
+            },
+            {
+              "subject_code": "ENG101",
+              "subject": "World Literature",
+              "credit": 3
+            },
+            {
+              "subject_code": "PHIL101",
+              "subject": "Philosophy of History",
+              "credit": 3
+            }
+          ],
+          "2": [
+            {
+              "subject_code": "HIST201",
+              "subject": "Medieval History",
+              "credit": 3
+            },
+            {
+              "subject_code": "HIST202",
+              "subject": "Renaissance and Reformation",
+              "credit": 3
+            },
+            {
+              "subject_code": "SOC101",
+              "subject": "Sociology",
+              "credit": 3
+            }
+          ],
+          "3": [
+            {
+              "subject_code": "HIST301",
+              "subject": "Age of Enlightenment",
+              "credit": 3
+            },
+            {
+              "subject_code": "HIST302",
+              "subject": "American Revolution",
+              "credit": 3
+            },
+            {
+              "subject_code": "POLSCI101",
+              "subject": "Political Science",
+              "credit": 3
+            }
+          ],
+          "4": [
+            {
+              "subject_code": "HIST401",
+              "subject": "Industrial Revolution",
+              "credit": 3
+            },
+            {
+              "subject_code": "HIST402",
+              "subject": "World Wars",
+              "credit": 3
+            },
+            {
+              "subject_code": "ANTH101",
+              "subject": "Cultural Anthropology",
+              "credit": 3
+            }
+          ],
+          "5": [
+            {
+              "subject_code": "HIST501",
+              "subject": "Cold War Era",
+              "credit": 3
+            },
+            {
+              "subject_code": "HIST502",
+              "subject": "Civil Rights Movement",
+              "credit": 3
+            },
+            {
+              "subject_code": "ECON101",
+              "subject": "Principles of Economics",
+              "credit": 3
+            }
+          ],
+          "6": [
+            {
+              "subject_code": "HIST601",
+              "subject": "Colonialism and Post-Colonialism",
+              "credit": 3
+            },
+            {
+              "subject_code": "HIST602",
+              "subject": "World Religions",
+              "credit": 3
+            },
+            {
+              "subject_code": "ART101",
+              "subject": "Introduction to Art",
+              "credit": 3
+            }
+          ],
+          "7": [
+            {
+              "subject_code": "HIST701",
+              "subject": "History of Science and Technology",
+              "credit": 3
+            },
+            {
+              "subject_code": "HIST702",
+              "subject": "Globalization",
+              "credit": 3
+            },
+            {
+              "subject_code": "PSYCH101",
+              "subject": "Introduction to Psychology",
+              "credit": 3
+            }
+          ],
+          "8": [
+            {
+              "subject_code": "HIST801",
+              "subject": "Historiography",
+              "credit": 3
+            },
+            {
+              "subject_code": "HIST802",
+              "subject": "History and Film",
+              "credit": 3
+            },
+            {
+              "subject_code": "HIST803",
+              "subject": "Senior Thesis",
+              "credit": 6
+            }
+          ]
+        }
+      },
+      "Marketing": {
+        "semesters": {
+          "1": [
+            {
+              "subject_code": "MKTG101",
+              "subject": "Introduction to Marketing",
+              "credit": 3
+            },
+            {
+              "subject_code": "COMM101",
+              "subject": "Business Communication",
+              "credit": 3
+            },
+            {
+              "subject_code": "MATH101",
+              "subject": "Business Mathematics",
+              "credit": 3
+            }
+          ],
+          "2": [
+            {
+              "subject_code": "MKTG201",
+              "subject": "Consumer Behavior",
+              "credit": 3
+            },
+            {
+              "subject_code": "MKTG202",
+              "subject": "Marketing Research",
+              "credit": 3
+            },
+            {
+              "subject_code": "FIN101",
+              "subject": "Introduction to Finance",
+              "credit": 3
+            }
+          ],
+          "3": [
+            {
+              "subject_code": "MKTG301",
+              "subject": "Brand Management",
+              "credit": 3
+            },
+            {
+              "subject_code": "MKTG302",
+              "subject": "Digital Marketing",
+              "credit": 3
+            },
+            {
+              "subject_code": "ECON101",
+              "subject": "Principles of Economics",
+              "credit": 3
+            }
+          ],
+          "4": [
+            {
+              "subject_code": "MKTG401",
+              "subject": "Marketing Analytics",
+              "credit": 3
+            },
+            {
+              "subject_code": "MKTG402",
+              "subject": "Social Media Marketing",
+              "credit": 3
+            },
+            {
+              "subject_code": "STAT101",
+              "subject": "Statistics",
+              "credit": 3
+            }
+          ],
+          "5": [
+            {
+              "subject_code": "MKTG501",
+              "subject": "Marketing Strategy",
+              "credit": 3
+            },
+            {
+              "subject_code": "MKTG502",
+              "subject": "International Marketing",
+              "credit": 3
+            },
+            {
+              "subject_code": "MGMT101",
+              "subject": "Principles of Management",
+              "credit": 3
+            }
+          ],
+          "6": [
+            {
+              "subject_code": "MKTG601",
+              "subject": "Retail Marketing",
+              "credit": 3
+            },
+            {
+              "subject_code": "MKTG602",
+              "subject": "Services Marketing",
+              "credit": 3
+            },
+            {
+              "subject_code": "MKTG603",
+              "subject": "Marketing Ethics",
+              "credit": 3
+            }
+          ],
+          "7": [
+            {
+              "subject_code": "MKTG701",
+              "subject": "Business-to-Business Marketing",
+              "credit": 3
+            },
+            {
+              "subject_code": "MKTG702",
+              "subject": "Marketing for Nonprofits",
+              "credit": 3
+            },
+            {
+              "subject_code": "MGMT201",
+              "subject": "Organizational Behavior",
+              "credit": 3
+            }
+          ],
+          "8": [
+            {
+              "subject_code": "MKTG801",
+              "subject": "Strategic Marketing Management",
+              "credit": 3
+            },
+            {
+              "subject_code": "MKTG802",
+              "subject": "Innovation and New Product Development",
+              "credit": 3
+            },
+            {
+              "subject_code": "MKTG803",
+              "subject": "Marketing Internship",
+              "credit": 6
+            }
+          ]
+        }
+      },
+      "Psychology": {
+        "semesters": {
+          "1": [
+            {
+              "subject_code": "PSYCH101",
+              "subject": "Introduction to Psychology",
+              "credit": 3
+            },
+            {
+              "subject_code": "SOC101",
+              "subject": "Sociology",
+              "credit": 3
+            },
+            {
+              "subject_code": "ANTH101",
+              "subject": "Cultural Anthropology",
+              "credit": 3
+            }
+          ],
+          "2": [
+            {
+              "subject_code": "PSYCH201",
+              "subject": "Developmental Psychology",
+              "credit": 3
+            },
+            {
+              "subject_code": "PSYCH202",
+              "subject": "Cognitive Psychology",
+              "credit": 3
+            },
+            {
+              "subject_code": "BIO101",
+              "subject": "Introduction to Biology",
+              "credit": 3
+            }
+          ],
+          "3": [
+            {
+              "subject_code": "PSYCH301",
+              "subject": "Abnormal Psychology",
+              "credit": 3
+            },
+            {
+              "subject_code": "PSYCH302",
+              "subject": "Social Psychology",
+              "credit": 3
+            },
+            {
+              "subject_code": "PHIL101",
+              "subject": "Philosophy of Mind",
+              "credit": 3
+            }
+          ],
+          "4": [
+            {
+              "subject_code": "PSYCH401",
+              "subject": "Personality Theories",
+              "credit": 3
+            },
+            {
+              "subject_code": "PSYCH402",
+              "subject": "Industrial-Organizational Psychology",
+              "credit": 3
+            },
+            {
+              "subject_code": "COMM101",
+              "subject": "Business Communication",
+              "credit": 3
+            }
+          ],
+          "5": [
+            {
+              "subject_code": "PSYCH501",
+              "subject": "Health Psychology",
+              "credit": 3
+            },
+            {
+              "subject_code": "PSYCH502",
+              "subject": "Educational Psychology",
+              "credit": 3
+            },
+            {
+              "subject_code": "PHYS101",
+              "subject": "Physics for Psychology",
+              "credit": 3
+            }
+          ],
+          "6": [
+            {
+              "subject_code": "PSYCH601",
+              "subject": "Counseling Psychology",
+              "credit": 3
+            },
+            {
+              "subject_code": "PSYCH602",
+              "subject": "Forensic Psychology",
+              "credit": 3
+            },
+            {
+              "subject_code": "CHEM101",
+              "subject": "General Chemistry",
+              "credit": 3
+            }
+          ],
+          "7": [
+            {
+              "subject_code": "PSYCH701",
+              "subject": "Positive Psychology",
+              "credit": 3
+            },
+            {
+              "subject_code": "PSYCH702",
+              "subject": "Cross-Cultural Psychology",
+              "credit": 3
+            },
+            {
+              "subject_code": "ECON101",
+              "subject": "Principles of Economics",
+              "credit": 3
+            }
+          ],
+          "8": [
+            {
+              "subject_code": "PSYCH801",
+              "subject": "Neuropsychology",
+              "credit": 3
+            },
+            {
+              "subject_code": "PSYCH802",
+              "subject": "Behavioral Neuroscience",
+              "credit": 3
+            },
+            {
+              "subject_code": "PSYCH803",
+              "subject": "Senior Thesis",
+              "credit": 6
+            }
+          ]
+        }
+      }
+    }
+  }
+  
