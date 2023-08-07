@@ -47,8 +47,8 @@ function SubjectList() {
           <div>
             <ul>
               {allSubject.map((subject) => (
-                <li key={subject.subject_code}>
-                  {subject.subject} - {subject.credit} credits
+                <li key={subject.course_code}>
+                 {subject.course_code} - {subject.course_name} - {subject.credits} credits
                 </li>
               ))}
             </ul>
