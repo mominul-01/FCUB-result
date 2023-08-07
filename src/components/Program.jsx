@@ -8,20 +8,21 @@ const Program = ({ onDepartmentData }) => {
     const selectedDepartmentValue = e.target.value;
     setSelectedDepartment(selectedDepartmentValue);
     onDepartmentData(e.target.value);
-
-    // console.log(`Selected Department: ${selectedDepartmentValue}`);
   };
 
   return (
-    <div className=" p-5 ">
-      <label htmlFor="department-dropdown" className="text-2xl  p-3">
+    <div className="m-4 flex-1">
+      <label
+        htmlFor="department-dropdown"
+        className="block text-white text-lg font-bold mb-2"
+      >
         Department Name:
       </label>
       <select
         id="department-dropdown"
         value={selectedDepartment}
         onChange={handleChange}
-        className=" text-lg rounded-lg px-5  mx-3 py-3"
+        className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
       >
         <option value="">Select Department</option>
         {Object.keys(data.departments).map((item, i) => (
@@ -33,6 +34,8 @@ const Program = ({ onDepartmentData }) => {
 
       {data.map}
     </div>
+
+ 
   );
 };
 
