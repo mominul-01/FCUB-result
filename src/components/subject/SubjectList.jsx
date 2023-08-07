@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import Program from "../Program";
 import Semester from "../Semester";
 import data from "../../../public/subject.json";
@@ -8,16 +8,22 @@ function SubjectList() {
   const [department, setDepartment] = useState("");
   const [semester, setSemester] = useState("");
   const [allSubject, setAllSubject] = useState([]);
+  const [totalCredit, setTotalCredit] = useState(0);
 
   // Form Submit
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log("Form submitted with data:", department, semester);
     if (department && semester) {
       setAllSubject(data.departments[department].semesters[semester]);
-      console.log(data.departments[department].semesters[semester][1].credit);
     }
   };
+
+  // use for total credit
+  useEffect(() => {
+    setTotalCredit(
+      allSubject.reduce((total, course) => total + course.credit, 0)
+    );
+  }, [allSubject]);
 
   return (
     <div>
@@ -47,7 +53,7 @@ function SubjectList() {
               ))}
             </ul>
 
-            <p>Total Creadit:</p>
+            <p>Total Creadit: {totalCredit}</p>
           </div>
         ) : (
           <p>No subjects available for the selected department and semester.</p>
